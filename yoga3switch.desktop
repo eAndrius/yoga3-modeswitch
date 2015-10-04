@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Yoga Switch
+Comment=For Lenovo Yoga 3 to switch between different modes
+Exec=python2 PATH-TO-FILE/yoga_switch.py
+Terminal=True
+Categories=Utility;
